@@ -18,10 +18,10 @@ Transformamos fluxos manuais em operações automatizadas, seguras e em total co
 
 ## O que fazemos
 
-- ** Softwares & Web Apps Sob Medida:** Portais de clientes, dashboards gerenciais, módulos operacionais e painéis administrativos desenhados exclusivamente para o fluxo de trabalho de cada operação, com controle de permissões por perfil (RBAC) e relatórios em tempo real.
-- ** Plataforma PontoSmart:** Nosso software proprietário de controle de ponto eletrônico corporativo, com reconhecimento facial por IA ao vivo, cerca de GPS, modo totem fixo, assinatura digital e conformidade rigorosa com a **Portaria 671 do MTE**.
-- ** Automação de Processos & APIs:** Integração entre softwares, conectores de dados em tempo real, bots de notificações, sincronização via WhatsApp e APIs RESTful documentadas.
-- ** Arquitetura em Nuvem & Segurança:** Infraestruturas cloud modernas (PostgreSQL, Supabase, Cloudflare, Render) com foco em alta disponibilidade, cache em memória RAM, backups automáticos, trilhas de auditoria e conformidade com a **LGPD**.
+- Softwares & Web Apps Sob Medida:** Portais de clientes, dashboards gerenciais, módulos operacionais e painéis administrativos desenhados exclusivamente para o fluxo de trabalho de cada operação, com controle de permissões por perfil (RBAC) e relatórios em tempo real.
+- Plataforma PontoSmart:** Nosso software proprietário de controle de ponto eletrônico corporativo, com reconhecimento facial por IA ao vivo, cerca de GPS, modo totem fixo, assinatura digital e conformidade rigorosa com a **Portaria 671 do MTE**.
+- Automação de Processos & APIs:** Integração entre softwares, conectores de dados em tempo real, bots de notificações, sincronização via WhatsApp e APIs RESTful documentadas.
+- Arquitetura em Nuvem & Segurança:** Infraestruturas cloud modernas (PostgreSQL, Supabase, Cloudflare, Render) com foco em alta disponibilidade, cache em memória RAM, backups automáticos, trilhas de auditoria e conformidade com a **LGPD**.
 
 ---
 
