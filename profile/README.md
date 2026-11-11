@@ -5,7 +5,7 @@ Desenvolvemos soluções digitais sob medida, automações operacionais e plataf
 
 <p align="left">
   <a href="https://www.tisuportems.com.br/" target="_blank"><img src="./assets/tisuportems_icon.jpg" height="40" width="40" style="border-radius: 10px; object-fit: cover;" alt="Website Oficial" /></a>
-  <a href="https://ponto.tisuportems.com.br" target="_blank"><img src="./assets/pontosmart_icon.png" height="40" width="40" style="border-radius: 10px; object-fit: cover;" alt="PontoSmart SaaS" /></a>
+  <a href="https://ponto.tisuportems.com.br" target="_blank"><img src="./assets/pontosmart_icon.svg" height="40" width="40" alt="PontoSmart SaaS" /></a>
   <a href="https://www.linkedin.com/company/tisuportems" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn Corporativo" /></a>
   <a href="mailto:contato@tisuportems.com.br"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="E-mail de Contato" /></a>
 </p>
