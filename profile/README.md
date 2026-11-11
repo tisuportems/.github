@@ -4,9 +4,8 @@
 Desenvolvemos soluções digitais sob medida, automações operacionais e plataformas SaaS de alta velocidade. Transformamos fluxos analógicos em ecossistemas digitais resilientes, seguros e em total conformidade jurídica e fiscal com as normas vigentes.
 
 <p align="left">
-  <a href="https://www.tisuportems.com.br/" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="Website Oficial" /></a>
-  <a href="https://ponto.tisuportems.com.br" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="40" alt="PontoSmart SaaS" /></a>
-  <a href="https://portal.tisuportems.com.br" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Portal do Cliente" /></a>
+  <a href="https://www.tisuportems.com.br/" target="_blank"><img src="./assets/tisuportems_icon.jpg" height="40" width="40" style="border-radius: 10px; object-fit: cover;" alt="Website Oficial" /></a>
+  <a href="https://ponto.tisuportems.com.br" target="_blank"><img src="./assets/pontosmart_icon.png" height="40" width="40" style="border-radius: 10px; object-fit: cover;" alt="PontoSmart SaaS" /></a>
   <a href="https://www.linkedin.com/company/tisuportems" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn Corporativo" /></a>
   <a href="mailto:contato@tisuportems.com.br"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="E-mail de Contato" /></a>
 </p>
