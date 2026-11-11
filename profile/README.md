@@ -1,59 +1,57 @@
-<div align="center">
-
-# TISuporteMS
+# TISUPORTEMS
 ### Sistemas Corporativos & Soluções em Tecnologia
 
-Desenvolvemos **sistemas empresariais sob medida**, **automações de processos** e **plataformas SaaS de alta velocidade**.  
-Transformamos fluxos manuais em operações automatizadas, seguras e em total conformidade jurídica.
+Desenvolvemos soluções digitais sob medida, automações operacionais e plataformas SaaS de alta velocidade. Transformamos fluxos analógicos em ecossistemas digitais resilientes, seguros e em total conformidade jurídica e fiscal com as normas vigentes.
 
-[![Website](https://img.shields.io/badge/Website-tisuportems.com.br-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.tisuportems.com.br/)
-[![PontoSmart](https://img.shields.io/badge/SaaS-PontoSmart-10B981?style=for-the-badge&logo=checkmarx&logoColor=white)](https://ponto.tisuportems.com.br)
-[![Portal do Cliente](https://img.shields.io/badge/Suporte-Portal_do_Cliente-6366F1?style=for-the-badge&logo=helpscout&logoColor=white)](https://portal.tisuportems.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TI_Suporte_MS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/tisuportems)
-[![Email](https://img.shields.io/badge/Contato-contato@tisuportems.com.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@tisuportems.com.br)
-
-</div>
-
----
-
-## O que fazemos
-
-- Softwares & Web Apps Sob Medida: Portais de clientes, dashboards gerenciais, módulos operacionais e painéis administrativos desenhados exclusivamente para o fluxo de trabalho de cada operação, com controle de permissões por perfil (RBAC) e relatórios em tempo real.
-- Plataforma PontoSmart: Nosso software proprietário de controle de ponto eletrônico corporativo, com reconhecimento facial por IA ao vivo, cerca de GPS, modo totem fixo, assinatura digital e conformidade rigorosa com a **Portaria 671 do MTE**.
-- Automação de Processos & APIs: Integração entre softwares, conectores de dados em tempo real, bots de notificações, sincronização via WhatsApp e APIs RESTful documentadas.
-- Arquitetura em Nuvem & Segurança: Infraestruturas cloud modernas (PostgreSQL, Supabase, Cloudflare, Render) com foco em alta disponibilidade, cache em memória RAM, backups automáticos, trilhas de auditoria e conformidade com a **LGPD**.
+<p align="left">
+  <a href="https://www.tisuportems.com.br/" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="Website Oficial" /></a>
+  <a href="https://ponto.tisuportems.com.br" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="40" alt="PontoSmart SaaS" /></a>
+  <a href="https://portal.tisuportems.com.br" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Portal do Cliente" /></a>
+  <a href="https://www.linkedin.com/company/tisuportems" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn Corporativo" /></a>
+  <a href="mailto:contato@tisuportems.com.br"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="E-mail de Contato" /></a>
+</p>
 
 ---
 
-## Tecnologias & Infraestrutura
+### Soluções & Engenharia Aplicada
 
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-
-</div>
+- **Sistemas Corporativos Sob Medida**: Portais de clientes, dashboards analíticos e módulos operacionais com controle de acesso granular por perfil (RBAC) e relatórios em tempo real.
+- **Plataforma PontoSmart**: Solução proprietária de controle de ponto eletrônico com reconhecimento facial por IA client-side, cerca de GPS, operação offline-first e conformidade com a Portaria 671 MTE.
+- **Automação de Processos & Integrações**: Conectores e APIs RESTful documentadas, pipelines de sincronização, webhooks e mensageria corporativa.
+- **Infraestrutura em Nuvem & Governança**: Ambientes resilientes focados em baixa latência, cache em memória RAM, backups automatizados, trilhas imutáveis de auditoria e conformidade LGPD.
 
 ---
 
-## Nossos Diferenciais
+### Tecnologias & Infraestrutura
 
-| Diferencial | Descrição |
+#### Core de Desenvolvimento & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,python" />
+</p>
+
+#### Frontend & Interfaces
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+#### Banco de Dados, Nuvem & Edge
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,cloudflare,docker" />
+</p>
+
+---
+
+### Pilares de Engenharia
+
+| Pilar | Diretriz Técnica |
 | :--- | :--- |
-| **Alta Performance** | Arquitetura que prioriza cache inteligente em memória RAM para respostas instantâneas e sem gargalos. |
-| **100% Sob Medida** | Código limpo e projetado exclusivamente para as regras de negócio de cada cliente. |
-| **Segurança & LGPD** | Criptografia de ponta a ponta, trilhas imutáveis de auditoria fiscal e governança de dados. |
-| **Suporte Direto** | Consultoria e suporte técnico ágil diretamente com os especialistas que desenvolveram o sistema. |
+| **Baixa Latência** | Priorização de cache em memória RAM e zero-polling para tempo de resposta instantâneo. |
+| **Arquitetura Dedicada** | Modelagem orientada ao domínio e regras de negócio específicas da operação. |
+| **Conformidade Fiscal & LGPD** | Criptografia em repouso e em trânsito, certificados digitais e logs imutáveis. |
+| **Disponibilidade Operacional** | Suporte e sustentação técnica contínua com monitoramento proativo. |
 
 ---
 
 <div align="center">
-  <sub>© TISuporteMS - Todos os direitos reservados <a href="https://www.tisuportems.com.br/">www.tisuportems.com.br</a></sub>
+<sub>Várzea Grande - MT • TISuporteMS Soluções em Tecnologia • <a href="https://www.tisuportems.com.br/">tisuportems.com.br</a></sub>
 </div>
