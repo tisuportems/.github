@@ -1,0 +1,45 @@
+<svg width="900" height="240" viewBox="0 0 900 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbf9f5"/>
+      <stop offset="50%" stop-color="#f4f0ea"/>
+      <stop offset="100%" stop-color="#eae5dc"/>
+    </linearGradient>
+    <filter id="shadow" x="-4" y="2" width="908" height="248" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#1c2826" flood-opacity="0.06"/>
+    </filter>
+  </defs>
+
+  <!-- Container com borda sutil e cantos arredondados -->
+  <rect x="2" y="2" width="896" height="236" rx="16" fill="url(#bgGrad)" stroke="#e5e0d5" stroke-width="2" filter="url(#shadow)"/>
+
+  <!-- Badge Topo -->
+  <rect x="40" y="32" width="310" height="28" rx="14" fill="#eef3f0" stroke="#4a6b5d" stroke-opacity="0.3" stroke-width="1"/>
+  <circle cx="54" cy="46" r="4" fill="#4a6b5d"/>
+  <text x="68" y="50" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#4a6b5d" letter-spacing="0.5">SISTEMAS CORPORATIVOS &amp; NUVEM</text>
+
+  <!-- Logo Marca e Nome -->
+  <g transform="translate(40, 78)">
+    <!-- Ícone Quadrado do Logo -->
+    <rect x="0" y="0" width="56" height="56" rx="12" fill="#ffffff" stroke="#ece7de" stroke-width="1.5"/>
+    <!-- Ícone interno estilizado de tecnologia -->
+    <circle cx="28" cy="28" r="14" stroke="#4a6b5d" stroke-width="3" stroke-dasharray="5 3"/>
+    <circle cx="28" cy="28" r="6" fill="#c67d34"/>
+    <rect x="26" y="8" width="4" height="6" rx="2" fill="#4a6b5d"/>
+    <rect x="26" y="42" width="4" height="6" rx="2" fill="#4a6b5d"/>
+    <rect x="8" y="26" width="6" height="4" rx="2" fill="#4a6b5d"/>
+    <rect x="42" y="26" width="6" height="4" rx="2" fill="#4a6b5d"/>
+
+    <!-- Título Principal -->
+    <text x="72" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="800" fill="#1c2826" letter-spacing="-0.5">TI SUPORTE <tspan fill="#4a6b5d">MS</tspan></text>
+    <text x="72" y="50" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="500" fill="#556360">Sistemas Corporativos &amp; Soluções em Tecnologia</text>
+  </g>
+
+  <!-- Tagline Descritiva -->
+  <text x="40" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="400" fill="#556360">
+    Desenvolvemos softwares sob medida, automações e plataformas SaaS de alta velocidade.
+  </text>
+  <text x="40" y="196" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#4a6b5d">
+    • Performance 0 ms (Cache RAM)   • Conformidade LGPD &amp; Criptografia   • Código 100% Proprietário
+  </text>
+</svg>
