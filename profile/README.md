@@ -8,21 +8,21 @@
 
 <p align="center">
   <a href="https://ponto.tisuportems.com.br/">
-    <img src="https://raw.githubusercontent.com/tisuportems/.github/main/profile/assets/card-pontosmart.svg?v=3" alt="PontoSmart" width="48.5%"/>
+    <img src="https://raw.githubusercontent.com/tisuportems/.github/main/profile/assets/card-pontosmart.svg?v=4" alt="PontoSmart" width="48.5%"/>
   </a>
   &nbsp;
   <a href="https://agenda.tisuportems.com.br/">
-    <img src="https://raw.githubusercontent.com/tisuportems/.github/main/profile/assets/card-agenda.svg?v=3" alt="TI Suporte Agenda" width="48.5%"/>
+    <img src="https://raw.githubusercontent.com/tisuportems/.github/main/profile/assets/card-agenda.svg?v=4" alt="TI Suporte Agenda" width="48.5%"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://portal.tisuportems.com.br/">
-    <img src="https://raw.githubusercontent.com/tisuportems/.github/main/profile/assets/card-portal.svg?v=3" alt="Portal do Cliente - Service Desk" width="48.5%"/>
+    <img src="https://raw.githubusercontent.com/tisuportems/.github/main/profile/assets/card-portal.svg?v=4" alt="Portal do Cliente - Service Desk" width="48.5%"/>
   </a>
   &nbsp;
   <a href="https://www.tisuportems.com.br/">
-    <img src="https://raw.githubusercontent.com/tisuportems/.github/main/profile/assets/card-telemetria.svg?v=3" alt="Sistema de Telemetria" width="48.5%"/>
+    <img src="https://raw.githubusercontent.com/tisuportems/.github/main/profile/assets/card-telemetria.svg?v=4" alt="Sistema de Telemetria" width="48.5%"/>
   </a>
 </p>
 
