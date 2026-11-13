@@ -30,16 +30,13 @@
 
 ---
 
-
-  <b>Idealizado e Desenvolvido por:</b><br/>
+<p align="center">
+  Idealizado e Desenvolvido por:<br/>
   <a href="https://github.com/mickael-soares"><b>Mickael Soares</b></a> • <i>Founder &amp; Lead Engineer</i>
   <br/><br/>
-  <a href="https://github.com/mickael-soares">
-    <img src="https://img.shields.io/badge/GitHub-@mickael--soares-4a6b5d?style=flat-square&logo=github&logoColor=white" alt="GitHub Mickael Soares"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mickael-soares">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Mickael Soares"/>
-  </a>
+  <a href="https://github.com/mickael-soares" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="34" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mickael-s-97755098/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="34" alt="LinkedIn" /></a>
 </p>
 
 </div>
