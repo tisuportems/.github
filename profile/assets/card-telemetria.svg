@@ -3,31 +3,32 @@
 
   <!-- Ícone e Título -->
   <rect x="24" y="24" width="40" height="40" rx="10" fill="#eef3f0"/>
-  <!-- Ícone de Telemetria / Gráfico de Pulso -->
+  <!-- Ícone de Servidor Local / Telemetria -->
   <path d="M32 44H36L39 36L43 50L47 40L50 44H56" stroke="#4a6b5d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
   <circle cx="43" cy="50" r="1.5" fill="#c67d34"/>
 
   <text x="76" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" fill="#1c2826">Sistema de Telemetria</text>
   <text x="76" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#4a6b5d">Monitoramento &amp; Métricas em Tempo Real</text>
 
-  <!-- Descrição -->
+  <!-- Descrição com ênfase On-Premises -->
   <text x="24" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" fill="#556360">
-    Coleta contínua de dados operacionais, telemetria de
+    Coleta contínua de dados operacionais em servidores
   </text>
   <text x="24" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" fill="#556360">
-    dispositivos, auditoria de integridade e alta observabilidade.
+    locais dedicados com isolamento de rede e alta segurança.
   </text>
 
   <!-- Features -->
   <g transform="translate(24, 134)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#1c2826">
     <circle cx="4" cy="8" r="3" fill="#4a6b5d"/>
-    <text x="14" y="12">Métricas em Tempo Real &amp; Dashboards</text>
+    <text x="14" y="12">Infraestrutura On-Premises (Rede Privada)</text>
 
     <circle cx="4" cy="28" r="3" fill="#4a6b5d"/>
     <text x="14" y="32">Alertas Proativos &amp; Diagnóstico Contínuo</text>
   </g>
 
-  <!-- Link Button -->
-  <rect x="24" y="184" width="160" height="28" rx="6" fill="#4a6b5d"/>
-  <text x="104" y="202" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#ffffff">Ver Telemetria →</text>
+  <!-- Badge de Status On-Premises (Ambiente Restrito / Proprietário) -->
+  <rect x="24" y="184" width="225" height="28" rx="6" fill="#f4f0ea" stroke="#e5e0d5" stroke-width="1.2"/>
+  <circle cx="36" cy="198" r="3.5" fill="#c67d34"/>
+  <text x="46" y="202" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#1c2826">Ambiente On-Premises • Privado</text>
 </svg>
