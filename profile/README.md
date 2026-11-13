@@ -30,11 +30,7 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/mickael-soares">
-    <img src="https://github.com/mickael-soares.png" width="60" height="60" style="border-radius: 50%; border: 2px solid #4a6b5d;" alt="Mickael Soares"/>
-  </a>
-  <br/>
+
   <b>Idealizado e Desenvolvido por:</b><br/>
   <a href="https://github.com/mickael-soares"><b>Mickael Soares</b></a> • <i>Founder &amp; Lead Engineer</i>
   <br/><br/>
