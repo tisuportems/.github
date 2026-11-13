@@ -1,0 +1,35 @@
+<svg width="440" height="230" viewBox="0 0 440 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="438" height="228" rx="14" fill="#ffffff" stroke="#e5e0d5" stroke-width="1.5"/>
+
+  <!-- Ícone e Título -->
+  <rect x="24" y="24" width="40" height="40" rx="10" fill="#eef3f0"/>
+  <!-- Ícone de Headset / Service Desk -->
+  <path d="M34 44C34 38.5 38.5 34 44 34C49.5 34 54 38.5 54 44V49C54 50.1 53.1 51 52 51H50" stroke="#4a6b5d" stroke-width="2" stroke-linecap="round"/>
+  <rect x="33" y="42" width="4" height="8" rx="2" fill="#4a6b5d"/>
+  <rect x="51" y="42" width="4" height="8" rx="2" fill="#4a6b5d"/>
+  <path d="M44 51V54H41" stroke="#4a6b5d" stroke-width="2" stroke-linecap="round"/>
+
+  <text x="76" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" fill="#1c2826">Portal do Cliente</text>
+  <text x="76" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#4a6b5d">Service Desk &amp; Gestão de Chamados</text>
+
+  <!-- Descrição -->
+  <text x="24" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" fill="#556360">
+    Central corporativa de suporte, abertura ágil de
+  </text>
+  <text x="24" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" fill="#556360">
+    chamados com controle rigoroso de SLA e histórico.
+  </text>
+
+  <!-- Features -->
+  <g transform="translate(24, 134)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#1c2826">
+    <circle cx="4" cy="8" r="3" fill="#4a6b5d"/>
+    <text x="14" y="12">Gestão de Incidentes com SLA &amp; Prioridades</text>
+
+    <circle cx="4" cy="28" r="3" fill="#4a6b5d"/>
+    <text x="14" y="32">Painel de Acompanhamento &amp; Notificações</text>
+  </g>
+
+  <!-- Link Button -->
+  <rect x="24" y="184" width="160" height="28" rx="6" fill="#4a6b5d"/>
+  <text x="104" y="202" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#ffffff">Acessar Portal →</text>
+</svg>
