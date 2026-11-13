@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.tisuportems.com.br/">
-  <img src="https://raw.githubusercontent.com/tisuportems/.github/main/profile/assets/header.svg?v=2" alt="TI SUPORTE MS" width="100%"/>
+  <img src="https://raw.githubusercontent.com/tisuportems/.github/main/profile/assets/header.svg?v=2" alt="TISUPORTEMS" width="100%"/>
 </a>
 
 <br/><br/>
@@ -35,7 +35,7 @@
 <br/>
 
 <a href="https://wa.me/556596293128">
-  <img src="https://raw.githubusercontent.com/tisuportems/.github/main/profile/assets/card-contact.svg?v=2" alt="Canais Oficiais TI Suporte MS" width="100%"/>
+  <img src="https://raw.githubusercontent.com/tisuportems/.github/main/profile/assets/card-contact.svg?v=2" alt="Canais Oficiais TISUPORTEMS" width="100%"/>
 </a>
 
 <br/><br/>
