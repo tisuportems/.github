@@ -11,8 +11,8 @@
   <circle cx="44" cy="47" r="1.5" fill="#4a6b5d"/>
   <circle cx="49" cy="47" r="1.5" fill="#4a6b5d"/>
 
-  <text x="76" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" fill="#1c2826">TI Suporte Agenda</text>
-  <text x="76" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#4a6b5d">Plataforma SaaS de Agendamento</text>
+  <text x="76" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" fill="#1c2826">Sistema de Agendamento</text>
+  <text x="76" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#4a6b5d">Plataforma SaaS Multi-Tenant</text>
 
   <!-- Descrição -->
   <text x="24" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" fill="#556360">
@@ -31,7 +31,8 @@
     <text x="14" y="32">Link Público Exclusivo &amp; Notificações</text>
   </g>
 
-  <!-- Link Simulado / Badge -->
-  <rect x="24" y="184" width="160" height="28" rx="6" fill="#4a6b5d"/>
-  <text x="104" y="202" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#ffffff">Acessar Agenda →</text>
+  <!-- Badge de Status Privado -->
+  <rect x="24" y="184" width="205" height="28" rx="6" fill="#f4f0ea" stroke="#e5e0d5" stroke-width="1.2"/>
+  <circle cx="36" cy="198" r="3.5" fill="#c67d34"/>
+  <text x="46" y="202" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#1c2826">SaaS Multi-Tenant • Privado</text>
 </svg>

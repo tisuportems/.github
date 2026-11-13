@@ -29,7 +29,8 @@
     <text x="14" y="32">Painel de Acompanhamento &amp; Notificações</text>
   </g>
 
-  <!-- Link Button -->
-  <rect x="24" y="184" width="160" height="28" rx="6" fill="#4a6b5d"/>
-  <text x="104" y="202" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#ffffff">Acessar Portal →</text>
+  <!-- Badge de Status Privado -->
+  <rect x="24" y="184" width="200" height="28" rx="6" fill="#f4f0ea" stroke="#e5e0d5" stroke-width="1.2"/>
+  <circle cx="36" cy="198" r="3.5" fill="#c67d34"/>
+  <text x="46" y="202" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#1c2826">Portal Corporativo • Privado</text>
 </svg>
